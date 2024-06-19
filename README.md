@@ -50,8 +50,7 @@ l. To push the linked repository to reflect on my Github, I ran the command: git
 m. Then I refreshed my githb repsitory page, and all changes reflected. 
 n. Also, I created and added a new .md file titled 'author.md' with a message containing my name and email address, and clicked on commit changes to link my local repository to my remote repository.
 
-Link to the my final repository on my github account obtained using the steps explained above: https://github.com/Omolola-Eniola/Demo
-
+Link to the my first repository on my github account obtained using the steps explained above: https://github.com/Omolola-Eniola/Demo
 
 
 4. Install Necessary Programming Languages and Runtimes:
@@ -60,11 +59,18 @@ Link to the my final repository on my github account obtained using the steps ex
 ANSWER:
 The following steps were taken to dowload python:
    - I download python-3.12.4-amd64 version from http://www.python.org
-   - I installed python and selected the path to customize installation to be saved on my local disk C, and followed all installation prompts to complete the installation. 
-5. The python launcher automatically was ticked in the checkbox and was installed too along side python.
-   -I had to run python on the command prompt via terminal by inputting the command: python --version, and the python version on my local mahine showed to be 3.12.4
+   - I installed python and selected the path to customize installation to be saved on my local disk C, and followed all installation prompts to complete the installation.
+   -  I had to run python on the command prompt via terminal by inputting the command: python --version, and the python version on my local mahine showed to be 3.12.4
 
-5. Configure a Database (MySQL):
+     
+5. Install Package Managers:
+If applicable, install package managers like pip (Python)
+
+ASNWER:
+-The python PIP pckage installer automatically was ticked in the checkbox and was installed too along side python.
+   
+
+7. Configure a Database (MySQL):
 
 ANSWER:
 The following steps were taken to install and configure MySQL 
@@ -76,6 +82,6 @@ The following steps were taken to install and configure MySQL
 7. Challenges encountered during set up:
 
 ANSWER:
-The only challenge I encountered was durijg the download of python on my local machine. For some reasons that I do not know, the initial python.exe that I downloaded, there was no option to click on 'path', but I had to delete that particular file, and installed another version whuch eventuallyb worked on my local machine. I confirmed that it is working on my local machine by running the command 'python --version' on command prompt
+The only challenge I encountered was during the download of python on my local machine. For some reasons that I do not know, the initial python.exe that I downloaded, there was no option to click on 'path' when I tried to launch it on my local machine, but I had to delete the package file, and installed another version whuch eventually worked on my local machine. Then I confirmed that it is working on my local machine by running the command 'python --version' on command prompt
 
 
